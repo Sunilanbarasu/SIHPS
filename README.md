@@ -61,5 +61,6 @@ Admin can send general announcements or newsletters.
 
 ## Dependencies
 Total time -3 months
+
  Budget -50000
 
