@@ -9,17 +9,55 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 ## Problem Creater's Organization
 Government of Gujarat
 
-## Idea
+## Idea  
+      ALUMINI JOB PORTAL 
+    The idea of alumini Job portal alumini can register and post job opportunities and students can apply it by registering the website 
+
+    Alumni Registration and Login:
+
+1.Alumini registeration and login
+Alumni can create a simple account with their details (name, graduation year, company, job role, etc.) to post jobs.
+Job Posting System:
+
+2.Job Posting System:
+ Alumni can post job openings (company name, position, location, skills required, etc.).
+Students can view these job postings on the portal.
+Student Registration and Application:
+
+3.Student Registration and Application:
+  Students can create profiles with basic information (name, course, resume) and apply directly for jobs.
+Option to upload resumes and other documents.
+Basic Job Search and Filter:
+
+4.Basic Job Search and Filter:
+   Students can search for jobs based on keywords, location, and job type (full-time, part-time, internship, etc.).
+Admin Dashboard:
+
+5.Admin Dashboard:
+  Admin can approve/reject job postings and track job applications.
+Simple interface for the college admin to manage the platform.
+Email Notifications:
+
+6.Email Notifications:
+   Automatic email notifications for students when a new job is posted or when they apply for a job.
+Admin can send general announcements or newsletters.
+
 
 
 ## Proposed Solution / Architecture Diagram
 
+![arch](https://github.com/user-attachments/assets/0237915c-15e9-4fe0-b415-470bc3acf9aa)
 
 ## Use Cases
+![arch](https://github.com/user-attachments/assets/72881185-a453-423f-866e-31dcb79d6f04)
 
 
 ## Technology Stack
-
+* Frontend: HTML5, CSS3, JavaScript (with libraries like Bootstrap or jQuery for responsive design).
+* Backend: PHP (Laravel) or Node.js (Express).
+* Database: MySQL or PostgreSQL for storing user profiles, job postings, and applications.
 
 ## Dependencies
+Total time -3 months
+ Budget -50000
 
