@@ -9,11 +9,12 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 ## Problem Creater's Organization
 Government of Gujarat
 
-## Idea  
-      ALUMINI JOB PORTAL 
-    The idea of alumini Job portal alumini can register and post job opportunities and students can apply it by registering the website 
+## Idea
+Alumini Job Portal
+      
+The idea of alumini Job portal alumini can register and post job opportunities and students can apply it by registering the website. 
 
-    Alumni Registration and Login:
+Alumni Registration and Login:
 
 1.Alumini registeration and login
 Alumni can create a simple account with their details (name, graduation year, company, job role, etc.) to post jobs.
